@@ -3,6 +3,7 @@
 ### I'm a computer engineer still learning as much as I can
 
 ### My Portfolio (in progress): https://portfolio-9ba79.web.app/
+### My old GitHub account: https://github.com/ivancanteromartin
 
 
 ### Programming Lenguages and Tools:
